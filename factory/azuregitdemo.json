@@ -1,0 +1,9 @@
+{
+	"name": "azuregitdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b36d86f0-040d-4a18-a633-430fea50a4e1",
+		"tenantId": "8f1b2d85-6c96-4aa4-ae91-63aa594e069c"
+	}
+}
